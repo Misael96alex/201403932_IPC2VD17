@@ -1,0 +1,7 @@
+INCREMENTAL
+
+la idea de esta metodologia es poder tener metas pequeñas a un corto tiempo, con la finalidad de motivar a los programadores
+y miembros del equipo de trabajo.
+este modelo implementa secuencias lineales escalonadas que proporcionan incrementos de producto.
+segmentando el proyecto y trabajando pequeñas partes o funciones, aplicanco el ciclo de vida en cada uno, asi hasta terminar 
+el proyecto completo.

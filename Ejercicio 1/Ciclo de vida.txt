@@ -1,0 +1,15 @@
+CICLO DE VIDA DEL SOFTWARE
+
+1. ANALISIS Y REQUERIMIENTO: Se analiza los requerimientos, limites del problema, los cuales se hacen conversando con el
+cliente para conocer lo que el requiere. Los clientes suelen tener una idea más bien abstracta del resultado final, pero
+no sobre las funciones que debería cumplir el software.
+
+2. DISEÑO: se busca como resolver el problema, de una manera lógica, para que cumpla con los requerimientos del problema 
+y las funciones.
+
+3. IMPLEMENTACION: conciste en la codificación del problema, en un lenguaje de programación.
+
+4. PRUEBAS: conciste  en un período de prubas que se le realizan al software, con el fin de detectar errores o hace mejorar
+el producto.
+
+5. MANTENIMIENTO: encargado de un grupo de personas calificadas, que revisaran periodicamente el producto.

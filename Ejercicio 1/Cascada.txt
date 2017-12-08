@@ -1,0 +1,5 @@
+CASCADA
+
+Es un modelo de ciclo de vida de software clasico o tradicional, en cuanto a cambios es rigido, es decir no puedes hacer 
+cambios hasta haber finalizado el ciclo, tampoco se permite regresar a un paso anterior.
+Es muy util y sirve para proyectos grandes.
