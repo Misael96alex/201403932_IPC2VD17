@@ -1,8 +1,8 @@
-Modelo de Objetivos
-– Describe la estructura estática del mundo sobre la que los
-objetivos predican
-– Es la base para formalizar los objetivos
-• Para todo tren, t.puertasAbiertas si y solo si t.velocidad=0 y
-Existe plataforma p tal que t.posición = p.posición
+Mdl d bjtvs
+– Dscrb l strctr sttc dl mnd sbr l q ls
+bjtvs prdcn
+– s l bs pr frmlzr ls bjtvs
+• Pr td trn, t.prtsbrts s y sl s t.vlcdd=0 y
+xst pltfrm p tl q t.pscn = p.pcn
 
 41
