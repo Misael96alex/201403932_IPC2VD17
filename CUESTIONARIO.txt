@@ -1,0 +1,3 @@
+1. comit: es guardar los cambios realizados.
+2. merge: es unir dos ramas de cambios realizados.
+3. el pull es para descargar los cambios realizados, el push es para cargar (subir) cambios realizados.
